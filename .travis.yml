@@ -32,4 +32,4 @@ before_script:
     - sleep 10
 # command to run tests
 script:
-- python tests/13.2_pcw.py
+- python tests/test.py
